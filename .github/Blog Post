@@ -1,0 +1,8 @@
+The goal here was to look at the real estate market after covid through real estate investment trusts specialized in different industries. I chose 
+Simon Property Group (SPG) - Retail REIT
+Prologis (PLD) - Industrial REIT
+Equity Residential (EQR) - Residential REIT
+Realty Income Corporation (O) - Diversified REIT
+American Tower Corporation (AMT) - Communication REIT
+as a sample set. While I'm aware the real estate market has changed after covid with the rise of remote work, I wasn't sure how investment trusts would be affected. All of my data was obtained from Yahoo Finance historical data. While right after the start of covid seemed an unjust time to pick - everything was in the air, I set a somewhat arbitrary date of January 2022 as a date when the dust had settled, but covid's effects had becomeo mainstream. 
+The hardest part of this so far has been figuring out github - I'm finding the user interface a little confusing to look at. Most of my experience has been with Jupyter notebook, which I've found generally to be a little easier. 
